@@ -15,7 +15,9 @@ I open-source almost everything I can, mostly for security and bug bounty stuff 
 
 - 📫 How to reach me: ...
 
-[<img target="_blank" src="<a href="https://icons8.com/icon/mpH52RRtTK3v/linkedin">Linkedin icon by Icons8</a>" title="LinkedIn">](https://www.linkedin.com/in/demirezenmert/)       [<img target="_blank" src="<a href="https://icons8.com/icon/3tC9EQumUAuq/github">GitHub icon by Icons8</a>" title="Github">](https://github.com/demirezenmert)     [<img target="_blank" src="<a href="https://icons8.com/icon/ZRiAFreol5mE/instagram">Instagram icon by Icons8</a>" title="Instagram">](https://instagram.com/demirezeennn/) 
+[<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/demirezenmert/)       [<img target="_blank" src="<a href="https://icons8.com/icon/3tC9EQumUAuq/github">GitHub icon by Icons8</a>" title="Github">](https://github.com/demirezenmert)     [<img target="_blank" src="<a href="https://icons8.com/icon/ZRiAFreol5mE/instagram">Instagram icon by Icons8</a>" title="Instagram">](https://instagram.com/demirezeennn/) 
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/demirezenmert/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/demirezenmert)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/demirezeennn/) 
 
 
 <!--
