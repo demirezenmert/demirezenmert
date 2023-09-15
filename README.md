@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on Python Automation services
-- 🌱 I’m currently learning Swift / IOS Programming - Cyber Security
+- 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate on looking opportunity
 - 💬 Ask me about opportunity
 ---
