@@ -1,11 +1,13 @@
 
-- 🔭 I’m currently working on Python Automation services
-- 🌱 I’m currently learning Cyber Security
-- 👯 I’m looking to collaborate on looking opportunity
-- 💬 Ask me about opportunity
+- 🔭 Passionate Full-Stack Python Developer with 4+ years of experience in building, deploying, and optimizing scalable
+applications in cloud environments.
+- 🌱 Proficient in cloud platforms like AWS and GCP, leveraging Docker, Kubernetes, and CI/CD pipelines to deliver high-
+performance applications.
+- 👯  Demonstrated expertise in data modeling, API development, and application security within Agile environments.
+- 💬  Familiar with AWS / Azure / GCP deployment
 ---
 
-I open-source almost everything I can, mostly for security and bug bounty stuff to pwn & automate all the things, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this service for free. See what I maintain at pinned repository on my GitHub profile.
+I open-source almost everything I can, primarily for security and bug bounty purposes, to pwn and automate all the things. I also try to respond to everyone who needs help with these projects. Obviously, this takes time. You can use this service for free. Check out what I maintain in the pinned repository on my GitHub profile.
 
  😊🎉
 
@@ -36,8 +38,24 @@ Here are some ideas to get you started:
 
 
 ## 🚀 About Me
-I'm a full stack developer, cyber security penetration tester...
-
+• Passionate Full-Stack Python Developer with 4+ years of experience in building, deploying, and optimizing scalable
+applications in cloud environments.
+• Skilled in both front-end and back-end development, with expertise in Python-based frameworks (Django, Flask) and
+modern JavaScript technologies (React, Vue).
+• Proficient in cloud platforms like AWS and GCP, leveraging Docker, Kubernetes, and CI/CD pipelines to deliver high-
+performance applications.
+• Demonstrated expertise in data modeling, API development, and application security within Agile environments.
+• Key Achievements:
+• Enhanced application scalability and reduced response time by 30% through API management and AWS Auto Scaling at
+DXCTech.
+• Secured $2.1M in funding for a national tourism SMB by leading end-to-end software development, implementing data-
+driven algorithms for adaptable system performance at Trolley Pub Knox.
+• Achieved a 35% faster deployment process and streamlined workflows using Docker and GCP Cloud Build for
+continuous integration at VMware.
+• Reduced page load time by 20% through JavaScript and AJAX optimization, boosting user experience for web
+applications.
+• Developed and maintained RESTful APIs with Django REST Framework, achieving a 30% improvement in application
+responsiveness and seamless integration between front-end and back-end systems.
 
 ## Badges
 
