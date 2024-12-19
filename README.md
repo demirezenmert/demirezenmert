@@ -17,9 +17,10 @@ I open-source almost everything I can, primarily for security and bug bounty pur
 
 - 📫 How to reach me: ...
 
-[<img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>](https://www.linkedin.com/in/demirezenmert/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/demirezenmert)     [<img src="https://img.icons8.com/bubbles/100/000000/instagram-new--v2.png"/>](https://instagram.com/demirezeennn/) 
-
-
+[<img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>](https://www.linkedin.com/in/demirezenmert/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/demirezenmert)     
+<!--
+[<img src="https://img.icons8.com/bubbles/100/000000/instagram-new--v2.png"/>](https://instagram.com/demirezeennn/) 
+-->
 
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,17 +38,12 @@ Here are some ideas to get you started:
 -->
 
 
+
+
 ## 🚀 About Me
-• Passionate Full-Stack Python Developer with 4+ years of experience in building, deploying, and optimizing scalable
-applications in cloud environments.
+
 • Skilled in both front-end and back-end development, with expertise in Python-based frameworks (Django, Flask) and
 modern JavaScript technologies (React, Vue).
-• Proficient in cloud platforms like AWS and GCP, leveraging Docker, Kubernetes, and CI/CD pipelines to deliver high-
-performance applications.
-• Demonstrated expertise in data modeling, API development, and application security within Agile environments.
-• Key Achievements:
-• Enhanced application scalability and reduced response time by 30% through API management and AWS Auto Scaling at
-DXCTech.
 • Secured $2.1M in funding for a national tourism SMB by leading end-to-end software development, implementing data-
 driven algorithms for adaptable system performance at Trolley Pub Knox.
 • Achieved a 35% faster deployment process and streamlined workflows using Docker and GCP Cloud Build for
